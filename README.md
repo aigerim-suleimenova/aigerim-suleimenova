@@ -4,9 +4,6 @@
 
 I am a web developer with 3 years of experience, passionate about coding and building robust, scalable applications. I enjoy exploring new technologies and solving challenging problems through innovative solutions.
 
-##  What I'm Up To
--  Building FastAPI applications with PostgreSQL
-
 # 💻 Tech Stack:
 Languages: 
 ![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white) 
