@@ -1,8 +1,7 @@
 <h1 align="center">Hello! I'm Aigerim🌑</h1>
 
 # About Me:
-
-I am a web developer with 3 years of experience, passionate about coding and building robust, scalable applications. I enjoy exploring new technologies and solving challenging problems through innovative solutions.
+Frontend engineer from Kazakhstan's leading tech companies, ex-Kaspi, specialized in fintech and consumer apps at scale.
 
 # 💻 Tech Stack:
 Languages: 
