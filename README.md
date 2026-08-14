@@ -1,7 +1,6 @@
 <h1 align="center">Hello! I'm Aigerim🌑</h1>
 
-# About Me:
-Frontend engineer from Kazakhstan's leading tech companies, ex-Kaspi, specialized in fintech and consumer apps at scale.
+
 
 # 💻 Tech Stack:
 Languages: 
