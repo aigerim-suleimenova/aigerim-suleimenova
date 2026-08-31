@@ -1,6 +1,6 @@
 <h1 align="center">Hello! I'm Aigerim  ✨ </h1>
 
-## 🚧 Currently building
+## 🛠 Recent project
 
 **[Applications](https://github.com/aigerim-suleimenova/claims)** — an
 internal web app for insurance underwriters (React/TypeScript client,
