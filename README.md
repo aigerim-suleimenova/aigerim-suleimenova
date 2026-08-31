@@ -1,6 +1,6 @@
 <h1 align="center">Hello! I'm Aigerim  ✨ </h1>
 
-## 🛠 Recent project
+## 🛠 Recent projects
 
 **[Applications](https://github.com/aigerim-suleimenova/claims)** — an
 internal web app for insurance underwriters (React/TypeScript client,
@@ -11,6 +11,11 @@ Built with **spec-driven development** using
 as a proposal (`proposal.md` → spec deltas → `design.md` → `tasks.md`)
 that's reviewed *before* any code is written, then implemented against
 its own spec and archived as the source of truth for that capability.
+
+**[PERN Todo](https://github.com/aigerim-suleimenova/pern-todo-app)** — a
+full-stack todo app built with PostgreSQL, Express, React, and Node,
+with complete CRUD (create/read/update/delete) wired end-to-end
+between the client and the API.
 
 ## 🌱 Open source contributions
 
