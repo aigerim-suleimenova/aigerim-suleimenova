@@ -7,7 +7,7 @@ Full-stack software engineer in Germany · TypeScript · React · Node.js · Pyt
 <a href="https://leetcode.com/u/aigerimCodesSWE/">LeetCode</a>
 </p>
 
-**Stack:** TypeScript, JavaScript, Python · React, Next.js, Angular, Vue · Node.js/Express, FastAPI · PostgreSQL, Firestore · Docker, GitHub Actions, Playwright, Vitest
+**Stack:** TypeScript, JavaScript, Python · React, Next.js · Node.js/Express, FastAPI · PostgreSQL, Firestore · Docker, GitHub Actions, Playwright, Vitest
 
 ## 🛠 Featured projects
 
