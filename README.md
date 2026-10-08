@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Aigerim ✨</h1>
+<h1 align="center">Hi, I'm Aigerim </h1>
 
 <p align="center">
 Full-stack software engineer in Germany · TypeScript · React · Node.js · Python · AI agents
